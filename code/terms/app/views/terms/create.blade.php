@@ -1,0 +1,1 @@
+C:\Users\mind\code\terms\app/views/terms/create.blade.php
